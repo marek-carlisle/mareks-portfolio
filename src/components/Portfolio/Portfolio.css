@@ -1,0 +1,18 @@
+#portfolioHeaderKeywords {
+    color: #3d74e3;
+}
+
+h3 {
+    color: #d1d7e0;
+}
+
+.projectLink {
+    color: #3d74e3;
+}
+
+.projectImage {
+    width: 200px;
+    border-radius: 5px;
+    margin: 10px;
+}
+

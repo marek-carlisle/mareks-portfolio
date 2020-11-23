@@ -1,0 +1,19 @@
+.navBarLinkList {
+    background-color: #282828;
+    margin-top: 0px;
+    padding: 10px
+}
+
+.navBarLinkItem {
+    display: inline-block;
+}
+
+.navBarLink { /* THESE DON'T FREAKING WORK!? */
+    color: #3d74e3;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navBarLink:hover {
+    background-color: rgb(255, 182, 36);
+}
