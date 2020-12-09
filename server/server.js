@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
-const portfolioProjectRouter = require('./routes/portfolioProject.router');
+// const portfolioProjectRouter = require('./routes/portfolioProject.router');
 const PORT = process.env.PORT || 5000;
 
 /** ---------- MIDDLEWARE ---------- **/
