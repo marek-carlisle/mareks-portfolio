@@ -9,7 +9,7 @@ app.use(bodyParser.json()); // needed for axios requests
 app.use(express.static('build'));
 
 /** ---------- EXPRESS ROUTES ---------- **/
-app.use('/portfolioProjectRouter', portfolioProjectRouter);
+// app.use('/portfolioprojectrouter', portfolioProjectRouter);
 
 /** ---------- START SERVER ---------- **/
 app.listen(PORT,  () => {

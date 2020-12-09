@@ -18,7 +18,11 @@ class Navbar extends Component {
                     </li>
 
                     <li className='navBarLinkItem'>
-                        <Link className='navBarLink' to='contact'>Contact</Link>
+                        <Link className='navBarLink' to='/contact'>Contact</Link>
+                    </li>
+
+                    <li className='navBarLinkItem'>
+                        <Link className='navBarLink' to='/resume'>Resume</Link>
                     </li>
                 </ul>
 

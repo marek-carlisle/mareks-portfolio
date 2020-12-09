@@ -1,0 +1,69 @@
+.resumeHeader {
+    margin: 0px;
+}
+
+.resumeHeaderTitle {
+    color: #3d74e3;
+    margin: 0px;
+}
+
+.resumeHeaderItem {
+    color: #d1d7e0;
+    margin: 10px;
+}
+
+.resumeHeaderLink {
+    color: #d1d7e0;
+}
+
+.resumeProjectTitle {
+    color: #3d74e3;
+}
+
+.resumeProject {
+    color: #d1d7e0;
+}
+
+.projectInfo {
+    color: #3d74e3;
+}
+
+.webDevTitle {
+    color: #3d74e3;
+}
+
+.webDevExperience {
+    color: #d1d7e0;
+}
+
+.salesExperienceTitle {
+    color: #3d74e3;
+}
+
+.salesExperience {
+    color: #d1d7e0;
+}
+
+.experienceInfo {
+    color: #3d74e3;
+}
+
+.educationTitle {
+    color: #3d74e3;
+}
+
+.educationAddress {
+    color: #3d74e3;
+}
+
+.education {
+    color: #d1d7e0;
+}
+
+.technicalSkillsTitle {
+    color: #3d74e3;
+}
+
+.technicalSkills {
+    color: #d1d7e0;
+}

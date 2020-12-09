@@ -5,6 +5,7 @@ import Navbar from './components/NavBar/Navbar';
 import Home from './components/Home/Home';
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
+import Resume from './components/Resume/Resume';
 
 import './App.css';
 
@@ -27,6 +28,7 @@ class App extends Component {
             <Route path="/home" component={Home} />
             <Route path="/portfolio" component={Portfolio} />
             <Route path="/contact" component={Contact} />
+            <Route path="/resume" component={Resume} />
 
           </Switch>
         </Router>
